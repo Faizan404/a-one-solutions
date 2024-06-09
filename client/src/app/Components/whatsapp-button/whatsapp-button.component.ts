@@ -11,7 +11,7 @@ export class WhatsappButtonComponent implements OnInit {
   ngOnInit(): void {}
 
   openWhatsApp(): void {
-    const phoneNumber = '0019173850020'; // Replace with the actual phone number
+    const phoneNumber = '+19173850020'; // Replace with the actual phone number
     const url = `https://wa.me/${phoneNumber}`;
     window.open(url, '_blank');
   }

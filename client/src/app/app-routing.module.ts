@@ -17,6 +17,7 @@ import { VideoEditingComponent } from './Components/video-editing/video-editing.
 import { PythonDevelopmentComponent } from './Components/python-development/python-development.component';
 import { PricingFeaturesComponent } from './Components/pricing-features/pricing-features.component';
 import { PriceCardsComponent } from './Components/price-cards/price-cards.component';
+import { CareerComponent } from './Components/career/career.component';
 
 const routes: Routes = [
   { path: '', component: HomeComponent },
@@ -82,6 +83,7 @@ const routes: Routes = [
   },
   { path: 'cart', component: CartComponent },
   { path: 'about-us', component: AboutUsComponent },
+  { path: 'career', component: CareerComponent },
   { path: 'contact-us', component: ComplainDeskComponent },
   { path: '**', component: ErrorComponent },
 ];

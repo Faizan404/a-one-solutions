@@ -268,7 +268,7 @@ export class PriceCardsComponent implements OnInit {
     return [
       {
         planType: 'Small Business',
-        pricing: '$100 - $300/month',
+        pricing: '$30/month',
         features: [
           'Initial website audit',
           'Keyword research and strategy',
@@ -281,7 +281,7 @@ export class PriceCardsComponent implements OnInit {
       },
       {
         planType: 'Mid-Sized Business',
-        pricing: '$300 - $500/month',
+        pricing: '$50/month',
         features: [
           'Initial website audit',
           'Keyword research and strategy',
@@ -294,7 +294,7 @@ export class PriceCardsComponent implements OnInit {
       },
       {
         planType: 'Large Enterprise',
-        pricing: '$500 - $900/month',
+        pricing: '$90/month',
         features: [
           'Initial website audit',
           'Keyword research and strategy',
@@ -311,7 +311,7 @@ export class PriceCardsComponent implements OnInit {
     return [
       {
         planType: 'Small Campaigns',
-        pricing: '$50 - $150/month',
+        pricing: '$50/month',
         features: [
           'Campaign strategy and setup',
           'Keyword research',
@@ -323,7 +323,7 @@ export class PriceCardsComponent implements OnInit {
       },
       {
         planType: 'Mid-Sized Campaigns',
-        pricing: '$200 - $450/month',
+        pricing: '$70/month',
         features: [
           'Campaign strategy and setup',
           'Keyword research',
@@ -335,7 +335,7 @@ export class PriceCardsComponent implements OnInit {
       },
       {
         planType: 'Large Campaigns',
-        pricing: '$500 - $700+/month',
+        pricing: '$90/month',
         features: [
           'Campaign strategy and setup',
           'Keyword research',
@@ -351,7 +351,7 @@ export class PriceCardsComponent implements OnInit {
     return [
       {
         planType: 'Basic Management',
-        pricing: '$50 - $200/month',
+        pricing: '$40/month',
         features: [
           'Social media strategy development',
           'Content creation (posts, images, videos)',
@@ -362,7 +362,7 @@ export class PriceCardsComponent implements OnInit {
       },
       {
         planType: 'Comprehensive Management',
-        pricing: '$200 - $550/month',
+        pricing: '$60/month',
         features: [
           'Social media strategy development',
           'Content creation (posts, images, videos)',
@@ -373,7 +373,7 @@ export class PriceCardsComponent implements OnInit {
       },
       {
         planType: 'Enterprise Management',
-        pricing: '$600 - $800+/month',
+        pricing: '$100/month',
         features: [
           'Social media strategy development',
           'Content creation (posts, images, videos)',
@@ -388,7 +388,7 @@ export class PriceCardsComponent implements OnInit {
     return [
       {
         planType: 'Small Projects',
-        pricing: '$100 - $250/month',
+        pricing: '$30/month',
         features: [
           'Content strategy development',
           'Blog posts and articles',
@@ -401,7 +401,7 @@ export class PriceCardsComponent implements OnInit {
       },
       {
         planType: 'Mid-Sized Projects',
-        pricing: '$300 - $500/month',
+        pricing: '$60/month',
         features: [
           'Content strategy development',
           'Blog posts and articles',
@@ -414,7 +414,7 @@ export class PriceCardsComponent implements OnInit {
       },
       {
         planType: 'Large Projects',
-        pricing: '$500 - $900/month',
+        pricing: '$90/month',
         features: [
           'Content strategy development',
           'Blog posts and articles',
@@ -431,7 +431,7 @@ export class PriceCardsComponent implements OnInit {
     return [
       {
         planType: 'Basic Campaigns',
-        pricing: '$30 - $100/month',
+        pricing: '$30/month',
         features: [
           'Email strategy and planning',
           'Template design',
@@ -444,7 +444,7 @@ export class PriceCardsComponent implements OnInit {
       },
       {
         planType: 'Advanced Campaigns',
-        pricing: '$150 - $300/month',
+        pricing: '$50/month',
         features: [
           'Email strategy and planning',
           'Template design',
@@ -457,7 +457,7 @@ export class PriceCardsComponent implements OnInit {
       },
       {
         planType: 'Enterprise Campaigns',
-        pricing: '$350 - $500/month',
+        pricing: '$80/month',
         features: [
           'Email strategy and planning',
           'Template design',
@@ -485,7 +485,7 @@ export class PriceCardsComponent implements OnInit {
     return [
       {
         planType: 'Basic Projects',
-        pricing: '$50 - $200/month',
+        pricing: '$20 - $40/month',
         features: [
           'Full-stack web application development',
           'API development and integration',
@@ -496,7 +496,7 @@ export class PriceCardsComponent implements OnInit {
       },
       {
         planType: 'Intermediate Projects',
-        pricing: '$200 - $500/month',
+        pricing: '$50 - $70/month',
         features: [
           'Full-stack web application development',
           'API development and integration',
@@ -507,7 +507,7 @@ export class PriceCardsComponent implements OnInit {
       },
       {
         planType: 'Complex Projects',
-        pricing: '$500 - $900/month',
+        pricing: '$80 - $100/month',
         features: [
           'Full-stack web application development',
           'API development and integration',
@@ -522,7 +522,7 @@ export class PriceCardsComponent implements OnInit {
     return [
       {
         planType: 'Basic Projects',
-        pricing: '$3,000 - $10,000/month',
+        pricing: '$30 - $50/month',
         features: [
           'Custom web application development',
           'CMS development',
@@ -533,7 +533,7 @@ export class PriceCardsComponent implements OnInit {
       },
       {
         planType: 'Intermediate Projects',
-        pricing: '$10,000 - $30,000/month',
+        pricing: '$60 - $80/month',
         features: [
           'Custom web application development',
           'CMS development',
@@ -544,7 +544,7 @@ export class PriceCardsComponent implements OnInit {
       },
       {
         planType: 'Complex Projects',
-        pricing: '$30,000 - $80,000+/month',
+        pricing: '$90 - $110/month',
         features: [
           'Custom web application development',
           'CMS development',
