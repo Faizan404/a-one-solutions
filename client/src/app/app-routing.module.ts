@@ -1,21 +1,13 @@
 import { NgModule } from '@angular/core';
 import { RouterModule, Routes } from '@angular/router';
 import { HomeComponent } from './Components/home/home.component';
-import { SignupComponent } from './Components/signup/signup.component';
-import { ForgetPasswordComponent } from './Components/forget-password/forget-password.component';
-import { ResetPasswordComponent } from './Components/reset-password/reset-password.component';
 import { ComplainDeskComponent } from './Components/complain-desk/complain-desk.component';
 import { ErrorComponent } from './Components/error/error.component';
-import { AuthComponent } from './Components/auth/auth.component';
 import { AboutUsComponent } from './Components/about-us/about-us.component';
 import { CartComponent } from './Components/cart/cart.component';
-import { PricingComponent } from './Components/pricing/pricing.component';
 import { WebDevelopmentComponent } from './Components/web-development/web-development.component';
-import { AdvanceComputerComponent } from './Components/advance-computer/advance-computer.component';
 import { DigitalMarktingComponent } from './Components/digital-markting/digital-markting.component';
-import { VideoEditingComponent } from './Components/video-editing/video-editing.component';
 import { PythonDevelopmentComponent } from './Components/python-development/python-development.component';
-import { PricingFeaturesComponent } from './Components/pricing-features/pricing-features.component';
 import { PriceCardsComponent } from './Components/price-cards/price-cards.component';
 import { CareerComponent } from './Components/career/career.component';
 

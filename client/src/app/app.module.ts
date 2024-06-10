@@ -33,7 +33,8 @@ import { CareerComponent } from './Components/career/career.component';
     PythonDevelopmentComponent,
     DigitalMarktingComponent,
     WhatsappButtonComponent,
-    CareerComponent
+    CareerComponent,
+    PriceCardsComponent
   ],
   imports: [
     BrowserModule,
